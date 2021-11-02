@@ -1,0 +1,4 @@
+node_modules
+.layer0
+**/dist/**/*
+*.vue
